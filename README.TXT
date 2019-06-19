@@ -19,3 +19,17 @@ Overzicht:
     Wanneer je hovert of klikt (mobiel) word de persoon uitgelicht.
     Als je niet met je muis boven of op de teamfoto hangt gaat de foto van links naar recht animeren.
     Bekijk het online: www.madpack.works
+mail-form:
+    Hierin zitten 2 bestanden die simpel laten zien hoe ik een formulier zou versturen via jquery/ajax en php.
+    Ook zorg ik hier voor dat er op recaptia gelet word.
+    
+    
+Bedankt voor het lezen van mijn code!
+
+
+Contactgegevens:
+
+Martijn Stok
+martijnstok.nl
+06 - 41 40 24 22
+martijn.stok.ict@gmailcom
